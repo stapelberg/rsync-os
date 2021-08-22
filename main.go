@@ -14,8 +14,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/kaiakz/rsync-os/rsync"
-	"github.com/kaiakz/rsync-os/storage"
+	"github.com/stapelberg/rsync-os/rsync"
+	"github.com/stapelberg/rsync-os/storage"
 	"github.com/spf13/viper"
 )
 

@@ -11,8 +11,8 @@ import (
 	"strings"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/kaiakz/rsync-os/rsync"
-	"github.com/kaiakz/rsync-os/storage/cache"
+	"github.com/stapelberg/rsync-os/rsync"
+	"github.com/stapelberg/rsync-os/storage/cache"
 	"github.com/minio/minio-go/v6"
 	bolt "go.etcd.io/bbolt"
 )

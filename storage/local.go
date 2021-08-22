@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/kaiakz/rsync-os/rsync"
+	"github.com/stapelberg/rsync-os/rsync"
 )
 
 type Local struct {

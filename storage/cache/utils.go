@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/kaiakz/rsync-os/rsync"
+	"github.com/stapelberg/rsync-os/rsync"
 	bolt "go.etcd.io/bbolt"
 )
 
